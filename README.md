@@ -12,7 +12,7 @@ Sou apaixonada por tecnologia, conhecimento e ciência e busco oportunidades par
 
 <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" /> 
 
-<img alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisaRMA&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"  height="150px" width="300px" />
+<img alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisaRMA&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"  height="200px" width="350px" />
 
 ## Certificados
 

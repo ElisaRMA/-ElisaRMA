@@ -20,4 +20,4 @@ Sou apaixonada por tecnologia, conhecimento e ciência e busco oportunidades par
 _"If you are not willing to learn, no one can help you. If you are determine to learn, no one can stop you"_ 
 
 
-| Coursera | <img alt="Coursera" src="https://img.shields.io/badge/Coursera-%230349FC.svg?style=for-the-badge&logo=<badge>&logoColor=white"/>    | `<img alt="Coursera" src="https://img.shields.io/badge/Coursera-%230349FC.svg?style=for-the-badge&logo=<badge>&logoColor=white"`  |
+| Coursera | <img alt="Coursera" src="https://img.shields.io/badge/Coursera-%230349FC.svg?style=for-the-badge&logo=Coursera&logoColor=white"/>    | `<img alt="Coursera" src="https://img.shields.io/badge/Coursera-%230349FC.svg?style=for-the-badge&logo=<badge>&logoColor=white"`  |

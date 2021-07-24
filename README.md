@@ -10,12 +10,7 @@ No momento, estou desenvolvendo um projeto de Doutorado que associa Metabolômic
 
 Sou apaixonada por tecnologia, conhecimento e ciência e busco oportunidades para trabalhar como Cientista da Dados! 
 
-<img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=plastic&logo=python&logoColor=white"/> <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=plastic&logo=Jupyter&logoColor=white" /> 
-
-
-<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> elisarm.antunes@gmail.com
-
-<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> https://www.linkedin.com/in/elisarma/
+<img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" /> 
 
 ## Certificados
 
@@ -25,6 +20,4 @@ Sou apaixonada por tecnologia, conhecimento e ciência e busco oportunidades par
 _"If you are not willing to learn, no one can help you. If you are determine to learn, no one can stop you"_ 
 
 
-
-?style=plastic&logo=appveyor
-?style=for-the-badge&logo=appveyor
+| Coursera | <img alt="Coursera" src="https://img.shields.io/badge/Coursera-%230349FC.svg?style=for-the-badge&logo=<badge>&logoColor=white"/>    | `<img alt="Coursera" src="https://img.shields.io/badge/Coursera-%230349FC.svg?style=for-the-badge&logo=<badge>&logoColor=white"`  |

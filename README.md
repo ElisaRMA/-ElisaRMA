@@ -19,4 +19,4 @@ Sou apaixonada por tecnologia, conhecimento e ciência e busco oportunidades par
 
 _"If you are not willing to learn, no one can help you. If you are determine to learn, no one can stop you"_ 
 
-[<img alt="Instagram" src="https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>[ (https://www.udemy.com/certificate/UC-E3F4ZHRO/)
+[<img alt="Instagram" src="https://img.shields.io/badge/https://www.udemy.com/certificate/UC-E3F4ZHRO/-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/

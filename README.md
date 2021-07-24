@@ -23,5 +23,4 @@ _"If you are not willing to learn, no one can help you. If you are determine to 
 
 ## Sinta-se livre para me contatar! </h2>
 
-<p <a target="_blank"href="https://www.linkedin.com/in/elisarma"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; /p>
-
+<p <a target="_blank"href="https://www.linkedin.com/in/elisarma"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;

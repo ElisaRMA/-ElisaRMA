@@ -18,6 +18,8 @@ Sou apaixonada por tecnologia, conhecimento e ciência e busco oportunidades par
 <img alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisaRMA&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"  height="200px" width="350px" />
 </p>
 
+_"If you are not willing to learn, no one can help you. If you are determine to learn, no one can stop you"_ 
+
 ## Certificados </h2>
 
 - [Data Science - Foundations Using R](https://coursera.org/share/71a580a09bc1ae9311ae6abb0ee3afba)
@@ -30,6 +32,3 @@ Sou apaixonada por tecnologia, conhecimento e ciência e busco oportunidades par
   <a target="_blank"href="https://www.linkedin.com/in/elisarma/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:elisarm.antunes@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
-</h2>
-_"If you are not willing to learn, no one can help you. If you are determine to learn, no one can stop you"_ 

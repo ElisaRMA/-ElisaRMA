@@ -23,7 +23,6 @@ Sou apaixonada por tecnologia, conhecimento e ciência e busco oportunidades par
 - [Data Science - Foundations Using R](https://coursera.org/share/71a580a09bc1ae9311ae6abb0ee3afba)
 - [R Programming for Statistics and Data Science](https://www.udemy.com/certificate/UC-E3F4ZHRO/)
 
-_"If you are not willing to learn, no one can help you. If you are determine to learn, no one can stop you"_ 
 
 ## Sinta-se livre para me contatar! </h2>
 
@@ -32,3 +31,5 @@ _"If you are not willing to learn, no one can help you. If you are determine to 
   <a href="mailto:elisarm.antunes@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+</h2>
+_"If you are not willing to learn, no one can help you. If you are determine to learn, no one can stop you"_ 

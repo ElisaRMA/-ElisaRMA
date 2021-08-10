@@ -1,5 +1,3 @@
-# Bem vindos(as)! 
-
 ## Sobre mim </h2>
 
 Olá, meu nome é Elisa Ribeiro, sou Bióloga e Cientista de Dados em formação! 

@@ -13,7 +13,7 @@ Sou apaixonada por tecnologia, conhecimento e ciência e busco oportunidades par
 </p>
 
 <p align="center">
-<img alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisaRMA&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"  height="200px" width="350px" />
+<img alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/elisaRMA&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"  height="200px" width="350px" />
 </p>
 
 _"If you are not willing to learn, no one can help you. If you are determine to learn, no one can stop you"_ 

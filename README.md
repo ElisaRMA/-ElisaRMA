@@ -2,7 +2,7 @@
 
 Olá, meu nome é Elisa Ribeiro, sou Bióloga e Cientista de Dados em formação! 
 
-Entrei em contato com programação e com a linguagem R ao final do meu Mestrado com a finalidade de melhorar a análise de dados que fazíamos no laboratório em que trabalhava. A medida que aprendia a programar em R, me apaixonava cada vez mais e, na mesma época, conheci a profissão de Cientista de Dados. Aprendendo sobre a profissão, ficou claro para mim que Ciência de Dados estava presente no meu dia a dia muito antes de eu conhecer a profissão!
+Entrei em contato com programação e com a linguagem R ao final do meu Mestrado com a finalidade de melhorar a análise de dados que fazíamos no laboratório em que trabalho. A medida que aprendia a programar em R, me apaixonava cada vez mais e, na mesma época, conheci a profissão de Cientista de Dados. Aprendendo sobre a profissão, ficou claro para mim que Ciência de Dados estava presente no meu dia a dia muito antes de eu conhecer a profissão!
 
 No momento, estou desenvolvendo um projeto de Doutorado que associa Metabolômica e Machine Learning para o controle de qualidade de plantas mediciais.
 

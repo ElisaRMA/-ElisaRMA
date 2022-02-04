@@ -1,28 +1,40 @@
-## Sobre mim </h2>
+## About me  </h2>
 
-Olá, meu nome é Elisa Ribeiro, sou Bióloga e Cientista de Dados em formação, em transição de carreira! 
+Hi, I'm Elisa Ribeiro,
 
-Entrei em contato com programação e com a linguagem R ao final do meu Mestrado com a finalidade de melhorar a análise de dados que fazíamos no laboratório em que trabalho. Na mesma época, conheci a profissão de Cientista de Dados e aprendendo sobre a profissão, ficou claro para mim que Ciência de Dados já stava presente no meu dia a dia.
+I am a  Data Scientist and a PhD Student at [Unicamp](https://www.unicamp.br/unicamp/)
 
-Sou apaixonada por tecnologia, conhecimento e ciência e durante meus anos na carreira acadêmica desenvolvi familiaridade com o método científico, aperfeiçoei minha visão crítica e analítica e desenvolvi habilidades de gestão de tempo, independência e autonomia.
+I've came into contact with R and programming at the end of my Masters with the goal to improve the data analysis done in my research group. I ended up falling in love in programming and I discovered the Data Scientist carrer.  
 
-No momento, estou desenvolvendo um projeto de Doutorado que associa Metabolômica e Machine Learning para o controle de qualidade de plantas mediciais mas também busco oportunidades para trabalhar como Cientista da Dados.
-
-<p align="center">
-<img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" /> 
-</p>
-
-_"If you are not willing to learn, no one can help you. If you are determine to learn, no one can stop you"_ 
-
-## Certificados </h2>
-
-- [Data Science Specialization - John Hopkins](https://coursera.org/share/fa8d7e50ed13e2a6349473a6cd2307f4)
-- [R Programming for Statistics and Data Science](https://www.udemy.com/certificate/UC-E3F4ZHRO/)
+In my years in academia, I've developed a strong background in data analysis and developed my critical thinking and problem-solving skills. I'm currently developing my PhD research that associates [Metabolomics](https://www.ebi.ac.uk/training/online/courses/metabolomics-introduction/what-is/) and Machine Learning for the quality control of Brazillian medicinal plants
 
 
-## Sinta-se livre para me contatar! </h2>
+&nbsp;&nbsp;
+&nbsp;
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=elisarma&show_icons=true&bg_color=151515&icon_color=d01010&title_color=f1f0f0&text_color=a9a8a8"
+</p>     
+            
+
+## Languages, Technologies and Tools
 
 <p align="center">
-  <a target="_blank"href="https://www.linkedin.com/in/elisarma/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:elisarm.antunes@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> <img alt="sql" src="https://img.shields.io/badge/sql-e30713?style=for-the-badge&logo=sql&logoColor=white" /> <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> <img alt="heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" /> <img alt="heroku" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" /> 
+  
 </p>
+
+
+     
+## Feel free to contact me! </h2>
+
+<p align="center">
+<a target="_blank"href="https://www.linkedin.com/in/elisarma/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:elisarm.antunes@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
+</p>
+
+>_"If you are not willing to learn, no one can help you. If you are determine to learn, no one can stop you"_ 
+
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=elisarma&style=flat-square&color=red"/>
+  </p>

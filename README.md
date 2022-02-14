@@ -4,7 +4,7 @@ Hi, I'm Elisa Ribeiro,
 
 I am a  Data Scientist and a PhD Student at [Unicamp](https://www.unicamp.br/unicamp/)
 
-I've came into contact with R and programming at the end of my Masters with the goal to improve the data analysis done in my research group. I ended up falling in love in programming and I discovered the Data Scientist career.  
+I've come into contact with R and programming at the end of my Masters with the goal to improve the data analysis done in my research group. I ended up falling in love in programming and I discovered the Data Scientist career.  
 
 In my years in academia, I've developed a strong background in data analysis and developed my critical thinking and problem-solving skills. I'm currently developing my PhD research that associates [Metabolomics](https://www.ebi.ac.uk/training/online/courses/metabolomics-introduction/what-is/) and Machine Learning for the quality control of Brazillian medicinal plants
 
